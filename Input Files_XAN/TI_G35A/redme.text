@@ -1,0 +1,17 @@
+######################################
+TI_G35A directory
+######################################
+equil1_fornamd.coor; reference coordinates for the wild-type NMT1-XAN complex
+
+equil1_fornamd; velocity from the previoulsy equilibrated step
+
+par_all36_na_ion_wat.prm; nucleic-acid, ions, ligand, water parameters, parameters for hybrid molecule G35A
+
+
+setup.namd; NMAD ADJUSTABLE PARAMETERS
+
+** use setup.namd file to run the thermodynamic integration simulation of the XAN-NMT1 complex for G35A
+
+
+
+
